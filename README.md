@@ -103,8 +103,8 @@ ForoHub es un proyecto que implementa un API REST construido con Spring Boot. Pr
 
 ### 1. Clonar el Repositorio
 ```bash
-$ git clone https://github.com/your-repo/ForoHub.git
-$ cd ForoHub
+$ git clone https://github.com/MarValverdeB/foro-hub-valverde.git
+$ cd foro-hub-valverde
 ```
 
 ### 2. Configuración de Base de datos
@@ -151,3 +151,7 @@ public class TopicoDTO {
 
 Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 
+## 💻 Desarrollado por:
+- Nombre: Mariela Guadalupe Valverde Benítez 
+- Email: marielavalverdeb@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marielavalverdeb/
